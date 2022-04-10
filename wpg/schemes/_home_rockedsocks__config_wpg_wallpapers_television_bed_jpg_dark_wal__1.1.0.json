@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/rockedsocks/.config/wpg/wallpapers/television_bed.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#08050D",
+        "foreground": "#c9ffff",
+        "cursor": "#c9ffff"
+    },
+    "colors": {
+        "color0": "#08050D",
+        "color1": "#8D6962",
+        "color2": "#515567",
+        "color3": "#4C536E",
+        "color4": "#06658C",
+        "color5": "#576D8B",
+        "color6": "#638EAB",
+        "color7": "#98d0d8",
+        "color8": "#1d1132",
+        "color9": "#c67e6f",
+        "color10": "#5d6691",
+        "color11": "#56649b",
+        "color12": "#0186bc",
+        "color13": "#628bc3",
+        "color14": "#6fbcef",
+        "color15": "#c9ffff"
+    }
+}
