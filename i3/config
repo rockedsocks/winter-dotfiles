@@ -10,7 +10,7 @@ floating_modifier $super
 
 #autostart
 exec --no-startup-id xrandr --auto --output eDP --mode 1366x768 --left-of HDMI-A-0 # set dual monitors
-exec --no-startup-id hsetroot -cover ~/.wallpaper.png
+exec --no-startup-id hsetroot -cover ~/.wallpaper.jpg
 exec --no-startup-id xsettingsd &
 exec --no-startup-id picom -b -f --vsync --config $HOME/.config/picom.conf
 
